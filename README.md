@@ -22,7 +22,7 @@ A continuación, encontrarás los enlaces directos a cada Google Colab. Haz clic
 * **Temas cubiertos:**
     * Definición y diferencia con el aprendizaje supervisado.
     * **Agrupamiento (Clustering):** Concepto y ejemplo con K-Means para segmentación de clientes.
-    * **Reducción de Dimensiones:** Refuerzo del concepto y ejemplo con t-SNE para visualización de datos (MNIST).
+    * **Reducción de Dimensiones:** Refuerzo del concepto y ejemplo con PCA para visualización de datos (MNIST).
     * **Detección de Anomalías / Novedades:** Concepto y ejemplo con One-Class SVM.
     * **Minado de Reglas de Asociación:** Explicación conceptual (Apriori).
     * **Modelado de Temas:** Explicación conceptual (LDA).
