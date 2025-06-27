@@ -27,7 +27,7 @@ A continuación, encontrarás los enlaces directos a cada Google Colab. Haz clic
     * **Minado de Reglas de Asociación:** Explicación conceptual (Apriori).
     * **Modelado de Temas:** Explicación conceptual (LDA).
     * Importancia y futuro del aprendizaje no supervisado.
-    * 
+
 ### [Clase 2: Reducción de Dimensiones y PCA](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Clase5/blob/main/ReducciondeDimensiones.ipynb)
 
 * **Descripción:** Aborda el problema de la "maldición de la dimensionalidad" y presenta el Análisis de Componentes Principales (PCA) como una técnica fundamental para reducir la cantidad de características en un dataset, manteniendo la información más relevante.
